@@ -1,0 +1,57 @@
+#main {
+  text-align: center;
+  background: #eee;
+}
+
+h1 {
+  padding-top: 20px;
+  font-family: Sans-serif;
+  font-size: 3.2vw;
+  color: #333;
+}
+
+h2 {
+  font-family: Sans-serif;
+  font-size: 2vw;
+  color: #333;
+}
+#img-div {
+  background-color: white;
+  width: 97%;
+  height: auto;
+  margin: auto;
+}
+ #image {
+  width: 100%;
+  max-width: 1200px;
+  height: auto;
+  max-height: 600px;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  display: block;
+}
+#img-caption {
+  font-family: Helvetica;
+  font-style: italic;
+  font-size: 1.3vw;
+  padding-bottom: 15px;
+  
+}
+#tribute-info {
+  font-size:1.6vw;
+  font-family: Arial;
+}
+#styling {
+  font-size: 1.9vw;
+}
+#link {
+  font-size: 1.3vw;
+}
+
+#footer{
+  font-family: Helvetica;
+  font-size: 1.2vw;
+}
+
+
